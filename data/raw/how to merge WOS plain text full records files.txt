@@ -1,0 +1,5 @@
+Les citations se chargent par bloc de 500 sur Web of science.
+Le type de fichier utilisé ici est "plain text" avec l'option "full record".
+Une fois les bloc téléchargés, il faut le réencoder en windows 1252 (ils sont à l'origine en UTF8), à l'aide par exemeple du logiciel CPconverter.
+
+Pour fusionner les différents bloc: utiliser la fonction pyhton (3.7) codée par Jan : 1_supp_2_first_lines_all_WOS_txt_files_and_merge_them

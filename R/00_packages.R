@@ -9,7 +9,7 @@
 
 
 library(tidyverse)
-library(rscimap)
+# library(rscimap)
 library(UpSetR)
 library(taxize)
 library(jsonlite)

@@ -1,0 +1,530 @@
+"Var1" "Freq"
+"1" "12th international symposium on wild boar and other suids" 1
+"2" "2016 3rd international conference on chemical and food engineering" 1
+"3" "23rd tall timbers fire ecology conference fire in grassland and shrubland ecosystems" 1
+"4" "6th international conference on biological science icbs 2019 - biodiversity as a cornerstone for embracing future humanity" 2
+"5" "acta amazonica" 1
+"6" "acta biologica hungarica" 1
+"7" "acta oecologica-international journal of ecology" 6
+"8" "acta oecologica-oecologia applicata" 1
+"9" "acta ornithologica" 12
+"10" "acta parasitologica" 1
+"11" "acta theriologica" 1
+"12" "acta zoologica" 1
+"13" "acta zoologica academiae scientiarum hungaricae" 4
+"14" "acta zoologica bulgarica" 8
+"15" "acta zoologica sinica" 4
+"16" "advanced science letters" 1
+"17" "advancements in life sciences" 1
+"18" "advances in ecological research vol 40 high-arctic ecosystem dynamics in a changing climate" 2
+"19" "african journal of ecology" 5
+"20" "african journal of science technology innovation  development" 1
+"21" "african journal of wildlife research" 1
+"22" "african zoology" 1
+"23" "agriculture ecosystems  environment" 4
+"24" "aims environmental science" 1
+"25" "ambio" 3
+"26" "american midland naturalist" 27
+"27" "american museum novitates" 1
+"28" "american naturalist" 15
+"29" "american zoologist" 9
+"30" "anais da academia brasileira de ciencias" 1
+"31" "animal behaviour" 108
+"32" "animal biodiversity and conservation" 10
+"33" "animal biology" 2
+"34" "animal cognition" 21
+"35" "animal conservation" 12
+"36" "animal learning  behavior" 5
+"37" "animal physiology 2016" 1
+"38" "animal reproduction" 1
+"39" "animal reproduction science" 18
+"40" "animal welfare" 11
+"41" "annales zoologici fennici" 11
+"42" "annals of the new york academy of sciences" 1
+"43" "antarctic science" 2
+"44" "anthropozoologica" 1
+"45" "anzeiger fur schadlingskunde pflanzenschutz umweltschutz" 1
+"46" "aob plants" 1
+"47" "applied animal behaviour science" 52
+"48" "aquatic conservation-marine and freshwater ecosystems" 1
+"49" "archives of biological sciences" 1
+"50" "archives of environmental contamination and toxicology" 29
+"51" "arctic" 23
+"52" "arctic science" 3
+"53" "ardea" 12
+"54" "ardeola" 2
+"55" "ardeola-international journal of ornithology" 4
+"56" "arthropod-plant interactions" 1
+"57" "asia life sciences" 1
+"58" "atti della accademia nazionale dei lincei rendiconti-classe di scienze fisiche-matematiche  naturali" 2
+"59" "auk" 50
+"60" "austral ecology" 2
+"61" "australian journal of ecology" 1
+"62" "australian journal of zoology" 2
+"63" "australian wildlife research" 1
+"64" "avian biology research" 19
+"65" "avian conservation and ecology" 9
+"66" "avian landscape ecology pure and applied issues in the large-scale ecology of birds" 2
+"67" "avian reproduction from behavior to molecules" 2
+"68" "avian research" 13
+"69" "basic and applied ecology" 2
+"70" "behavior genetics" 2
+"71" "behavioral and morphological asymmetries in vertebrates" 1
+"72" "behavioral and neural biology" 2
+"73" "behavioral biology" 3
+"74" "behavioral ecology" 35
+"75" "behavioral ecology and sociobiology" 22
+"76" "behavioral neurobiology of birdsong" 1
+"77" "behavioral neuroscience" 2
+"78" "behaviour" 21
+"79" "behavioural brain research" 22
+"80" "behavioural processes" 33
+"81" "bioacoustics-the international journal of animal sound and its recording" 1
+"82" "biodiversity and conservation" 12
+"83" "bioelectromagnetics" 1
+"84" "biologia" 6
+"85" "biological bulletin of bogdan chmelnitskiy melitopol state pedagogical university" 1
+"86" "biological conservation" 53
+"87" "biological invasions" 5
+"88" "biological journal of the linnean society" 5
+"89" "biological psychology" 1
+"90" "biological reviews" 3
+"91" "biological rhythm research" 6
+"92" "biology bulletin" 8
+"93" "biology letters" 11
+"94" "biology of behaviour" 3
+"95" "biology of reproduction" 11
+"96" "biology open" 4
+"97" "biometrics" 1
+"98" "bioscience" 1
+"99" "bioscience research" 1
+"100" "biosystems diversity" 2
+"101" "biota neotropica" 1
+"102" "biotropica" 1
+"103" "bird-banding" 1
+"104" "bird conservation international" 18
+"105" "bird hormones and bird migrations analyzing hormones in droppings and egg yolks and assessing adaptations in long-distance migration" 1
+"106" "bird study" 44
+"107" "birds in the boreal forest" 1
+"108" "birth defects research part c-embryo today-reviews" 1
+"109" "bmc biology" 1
+"110" "bmc ecology" 3
+"111" "bmc evolutionary biology" 3
+"112" "boletim do instituto de pesca" 1
+"113" "bollettino di zoologia" 4
+"114" "brain behavior and evolution" 4
+"115" "brazilian archives of biology and technology" 1
+"116" "brazilian journal of biology" 6
+"117" "brazilian journal of medical and biological research" 3
+"118" "brimleyana" 1
+"119" "bulgarian journal of agricultural science" 1
+"120" "bulletin de la societe zoologique de france-evolution et zoologie" 2
+"121" "bulletin of environmental contamination and toxicology" 8
+"122" "bulletin of the national academy of sciences of the republic of kazakhstan" 1
+"123" "caldasia" 1
+"124" "california fish and game" 1
+"125" "camera trapping wildlife management and research" 1
+"126" "canadian field-naturalist" 16
+"127" "canadian journal of zoology" 26
+"128" "canadian journal of zoology-revue canadienne de zoologie" 31
+"129" "canadian journal of zoology - back year project" 1
+"130" "central european journal of biology" 1
+"131" "chemical senses" 1
+"132" "chemoecology" 2
+"133" "chemosphere" 12
+"134" "chiang mai journal of science" 1
+"135" "chronobiologia" 2
+"136" "chronobiology international" 6
+"137" "cienciauat" 1
+"138" "climate change and rocky mountain ecosystems" 1
+"139" "climate research" 2
+"140" "climatic change" 1
+"141" "colonial waterbirds" 1
+"142" "communications biology" 1
+"143" "comparative biochemistry and physiology a-molecular  integrative physiology" 66
+"144" "comparative biochemistry and physiology a-molecular and integrative physiology" 3
+"145" "comparative biochemistry and physiology a-physiology" 19
+"146" "comparative biochemistry and physiology b-biochemistry  molecular biology" 18
+"147" "comparative biochemistry and physiology c-pharmacology toxicology  endocrinology" 8
+"148" "comparative biochemistry and physiology c-toxicology  pharmacology" 18
+"149" "comparative cytogenetics" 2
+"150" "comparative medicine" 2
+"151" "comparative parasitology" 1
+"152" "comptes rendus biologies" 1
+"153" "comptes rendus de l academie des sciences serie iii-sciences de la vie-life sciences" 3
+"154" "comptes rendus des seances de la societe de biologie et de ses filiales" 3
+"155" "comptes rendus hebdomadaires des seances de l academie des sciences serie d" 7
+"156" "condor" 71
+"157" "conservation biology" 18
+"158" "conservation genetics" 10
+"159" "conservation genetics resources" 4
+"160" "conservation letters" 1
+"161" "conservation physiology" 1
+"162" "contemporary problems of ecology" 3
+"163" "copeia" 1
+"164" "coral reefs of the eastern tropical pacific persistence and loss in a dynamic environment" 1
+"165" "criteria and indicators for sustainable forest management at the forest management unit level" 1
+"166" "cross border waters fragile treasures for the 21st century" 1
+"167" "cryobiology" 1
+"168" "cryoletters" 1
+"169" "current biology" 3
+"170" "current science" 1
+"171" "current zoology" 3
+"172" "cybium" 1
+"173" "data in brief" 1
+"174" "developmental and comparative immunology" 1
+"175" "diversity-basel" 1
+"176" "diversity and distributions" 4
+"177" "dodo-journal of the wildlife preservation trusts" 2
+"178" "ecography" 14
+"179" "ecological applications" 16
+"180" "ecological complexity" 1
+"181" "ecological economics" 1
+"182" "ecological engineering" 1
+"183" "ecological indicators" 3
+"184" "ecological informatics" 1
+"185" "ecological management  restoration" 1
+"186" "ecological modelling" 12
+"187" "ecological monographs" 1
+"188" "ecological research" 2
+"189" "ecology" 18
+"190" "ecology and evolution" 35
+"191" "ecology conservation and management of grouse" 19
+"192" "ecology letters" 4
+"193" "ecoscience" 3
+"194" "ecosphere" 32
+"195" "ecosystems" 1
+"196" "ecosystems dynamics agricultural remote sensing and modeling and site-specific agriculture" 1
+"197" "ecotoxicology" 14
+"198" "ecotoxicology and environmental safety" 10
+"199" "ekologia polska-polish journal of ecology" 2
+"200" "electromagnetic biology and medicine" 1
+"201" "elife" 3
+"202" "emu" 8
+"203" "emu-austral ornithology" 3
+"204" "endangered species research" 1
+"205" "energy environment ecosystems development and landscape architecture" 1
+"206" "environmental biology of fishes" 3
+"207" "environmental conservation" 2
+"208" "environmental health perspectives" 3
+"209" "environmental management" 4
+"210" "environmental monitoring and assessment" 4
+"211" "environmental pollution" 15
+"212" "environmental pollution series a-ecological and biological" 1
+"213" "environmental research" 5
+"214" "environmental reviews" 1
+"215" "environmental science-processes  impacts" 1
+"216" "environmental science  technology" 12
+"217" "environmental science and pollution research" 8
+"218" "environmental toxicology" 1
+"219" "environmental toxicology and chemistry" 44
+"220" "environmental toxicology and pharmacology" 2
+"221" "environments" 2
+"222" "ethology" 15
+"223" "ethology ecology  evolution" 3
+"224" "european journal of wildlife research" 68
+"225" "everymans science" 1
+"226" "evodevo" 1
+"227" "evolution" 10
+"228" "evolution letters" 1
+"229" "evolutionary applications" 1
+"230" "evolutionary ecology" 6
+"231" "evolutionary ecology research" 3
+"232" "experimental animals" 2
+"233" "faseb journal" 1
+"234" "federation proceedings" 3
+"235" "fire ecology" 1
+"236" "folia biologica" 1
+"237" "folia biologica-krakow" 5
+"238" "folia zoologica" 22
+"239" "forktail" 5
+"240" "fresenius environmental bulletin" 2
+"241" "frontiers in behavioral neuroscience" 2
+"242" "frontiers in ecology and evolution" 4
+"243" "frontiers in zoology" 2
+"244" "functional ecology" 10
+"245" "general and comparative endocrinology" 91
+"246" "genome biology and evolution" 2
+"247" "gibier fane sauvage - game and wildlife vol 15 special number pts 2 and 3 1998" 8
+"248" "gigascience" 2
+"249" "global change biology" 7
+"250" "global ecology and biogeography" 2
+"251" "global ecology and conservation" 7
+"252" "global environmental change-human and policy dimensions" 1
+"253" "great basin naturalist" 5
+"254" "greater sage-grouse ecology and conservation of a landscape species and its habitats" 12
+"255" "heliyon" 2
+"256" "heredity" 5
+"257" "herpetological conservation and biology" 1
+"258" "hormones and behavior" 20
+"259" "human-wildlife interactions" 6
+"260" "human and ecological risk assessment" 1
+"261" "ibis" 73
+"262" "impacts of skiing and related winter recreational activities on mountain environments" 2
+"263" "indian journal of experimental biology" 3
+"264" "indian journal of physics and proceedings of the indian association for the cultivation of science-part b" 1
+"265" "integrated environmental assessment and management" 3
+"266" "integrative and comparative biology" 12
+"267" "interdisciplinary science reviews" 1
+"268" "international biodeterioration  biodegradation" 2
+"269" "international conference on climate change iccc 2018" 1
+"270" "international conference on natural products and bioresource science 2017 iconprobios 2017" 1
+"271" "international journal for parasitology-parasites and wildlife" 6
+"272" "international journal of agriculture and biology" 3
+"273" "international journal of biometeorology" 2
+"274" "international journal of ecology  development" 1
+"275" "international journal of environmental research and public health" 1
+"276" "international journal of environmental science and technology" 2
+"277" "international journal of pure and applied zoology" 1
+"278" "international journal of radiation biology" 1
+"279" "inventing prosperous future through biological research and tropical biodiversity management" 1
+"280" "isotopes in environmental and health studies" 1
+"281" "israel journal of ecology  evolution" 1
+"282" "israel journal of zoology" 1
+"283" "issues and technology in the management of impacted wildlife" 1
+"284" "italian journal of zoology" 3
+"285" "jan mayen island in scientific focus" 1
+"286" "journal for nature conservation" 2
+"287" "journal fur ornithologie" 9
+"288" "journal of animal and plant sciences" 20
+"289" "journal of animal and plant sciences-japs" 1
+"290" "journal of animal ecology" 51
+"291" "journal of applied ecology" 57
+"292" "journal of arid environments" 2
+"293" "journal of asia-pacific biodiversity" 1
+"294" "journal of avian biology" 24
+"295" "journal of biogeography" 6
+"296" "journal of biological research-thessaloniki" 2
+"297" "journal of biological rhythms" 1
+"298" "journal of biosciences" 2
+"299" "journal of chemical ecology" 2
+"300" "journal of cleaner production" 1
+"301" "journal of coastal research" 1
+"302" "journal of comparative neurology" 22
+"303" "journal of comparative physiology a-neuroethology sensory neural and behavioral physiology" 1
+"304" "journal of comparative physiology a-sensory neural and behavioral physiology" 2
+"305" "journal of comparative physiology b-biochemical systemic and environmental physiology" 10
+"306" "journal of comparative physiology b-biochemical systems and environmental physiology" 2
+"307" "journal of comparative psychology" 32
+"308" "journal of ecology" 1
+"309" "journal of environmental biology" 2
+"310" "journal of environmental management" 4
+"311" "journal of environmental quality" 3
+"312" "journal of environmental science and health part a-toxichazardous substances  environmental engineering" 1
+"313" "journal of environmental science and health part b-pesticides food contaminants and agricultural wastes" 2
+"314" "journal of ethnobiology" 1
+"315" "journal of ethnobiology and ethnomedicine" 1
+"316" "journal of ethology" 4
+"317" "journal of evolutionary biochemistry and physiology" 2
+"318" "journal of evolutionary biology" 5
+"319" "journal of experimental biology" 35
+"320" "journal of experimental marine biology and ecology" 1
+"321" "journal of experimental psychology-animal behavior processes" 4
+"322" "journal of experimental psychology-animal learning and cognition" 1
+"323" "journal of experimental zoology" 3
+"324" "journal of experimental zoology part a-ecological and integrative physiology" 9
+"325" "journal of experimental zoology part a-ecological genetics and physiology" 5
+"326" "journal of field ornithology" 29
+"327" "journal of fish and wildlife management" 16
+"328" "journal of great lakes research" 1
+"329" "journal of helminthology" 9
+"330" "journal of heredity" 4
+"331" "journal of insect physiology" 1
+"332" "journal of interdisciplinary cycle research" 2
+"333" "journal of mammalogy" 3
+"334" "journal of mathematical biology" 1
+"335" "journal of molecular evolution" 2
+"336" "journal of natural history" 2
+"337" "journal of ornithology" 57
+"338" "journal of plant ecology" 1
+"339" "journal of protozoology" 1
+"340" "journal of radiation research and applied sciences" 1
+"341" "journal of range management" 11
+"342" "journal of raptor research" 25
+"343" "journal of reproduction and development" 5
+"344" "journal of reproduction and fertility" 2
+"345" "journal of reproductive immunology" 1
+"346" "journal of soil and water conservation" 1
+"347" "journal of soils and sediments" 1
+"348" "journal of the american association for laboratory animal science" 1
+"349" "journal of the experimental analysis of behavior" 1
+"350" "journal of the royal society interface" 2
+"351" "journal of theoretical biology" 4
+"352" "journal of thermal biology" 10
+"353" "journal of toxicology and environmental health" 6
+"354" "journal of toxicology and environmental health-part a-current issues" 2
+"355" "journal of tropical ecology" 1
+"356" "journal of vegetation science" 2
+"357" "journal of vertebrate biology" 2
+"358" "journal of wildlife management" 351
+"359" "journal of zoo and aquarium research" 1
+"360" "journal of zoology" 16
+"361" "jove-journal of visualized experiments" 2
+"362" "laboratory animal science" 1
+"363" "laboratory animals" 1
+"364" "landscape and urban planning" 3
+"365" "landscape ecology" 4
+"366" "mammalia" 1
+"367" "marine biodiversity" 1
+"368" "marine ecology progress series" 19
+"369" "marine pollution bulletin" 1
+"370" "methods in ecology and evolution" 2
+"371" "microscopy research and technique" 4
+"372" "mitigation and adaptation strategies for global change" 1
+"373" "molecular biology and evolution" 4
+"374" "molecular ecology" 22
+"375" "molecular ecology notes" 1
+"376" "molecular ecology resources" 1
+"377" "molecular phylogenetics and evolution" 5
+"378" "molecular reproduction and development" 1
+"379" "molluscan research" 1
+"380" "movement ecology" 1
+"381" "nature" 8
+"382" "nature communications" 3
+"383" "naturwissenschaften" 3
+"384" "neotropical ichthyology" 3
+"385" "netherlands journal of zoology" 2
+"386" "neurobiology of learning and memory" 7
+"387" "neuroscience and biobehavioral reviews" 1
+"388" "new zealand journal of ecology" 2
+"389" "north-western journal of zoology" 2
+"390" "northeastern naturalist" 6
+"391" "northwest science" 3
+"392" "notornis" 1
+"393" "oecologia" 30
+"394" "ohio journal of science" 2
+"395" "oikos" 37
+"396" "ornis fennica" 24
+"397" "ornis scandinavica" 34
+"398" "ornithological science" 2
+"399" "ornithology research" 1
+"400" "ornitologia neotropical" 15
+"401" "oryx" 10
+"402" "ostrich" 24
+"403" "pacific science" 1
+"404" "pakistan journal of zoology" 20
+"405" "paleontologia y evolucion de las aves" 1
+"406" "peerj" 14
+"407" "pharmacology biochemistry and behavior" 8
+"408" "philosophical transactions of the royal society b-biological sciences" 10
+"409" "phylogenetic aspects of neuropeptides from invertebrates to humans" 1
+"410" "physiological and biochemical zoology" 7
+"411" "physiological zoology" 9
+"412" "physiology  behavior" 34
+"413" "plant ecology" 1
+"414" "plant systematics and evolution" 1
+"415" "plos computational biology" 2
+"416" "plos one" 119
+"417" "polar biology" 29
+"418" "polar research" 11
+"419" "polish journal of ecology" 8
+"420" "polish polar research" 1
+"421" "population ecology" 11
+"422" "proceedings of pakistan congress of zoology vol 11 1991" 1
+"423" "proceedings of pakistan congress of zoology vol 12 1992" 1
+"424" "proceedings of pakistan congress of zoology vol 13 1993" 1
+"425" "proceedings of the fiftieth annual conference - southeastern association of fish and wildlife agencies" 2
+"426" "proceedings of the fifty-eighth annual conference of the southeastern association of fish and wildlife agencies" 3
+"427" "proceedings of the fifty-first annual conference - southeastern association of fish and wildlife agencies" 5
+"428" "proceedings of the fifty-fourth annual conference of the southeastern association of fish and wildlife agencies" 3
+"429" "proceedings of the fifty-seventh annual conference of the southeastern association of fish and wildlife agencies" 1
+"430" "proceedings of the fifty-sixth annual conference of the southeastern association of fish and wildlife agencies" 2
+"431" "proceedings of the fifty-third annual conference of the southeastern association of fish and wildlife agencies" 2
+"432" "proceedings of the forty-eighth annual conference - southeastern association of fish and wildlife agencies" 3
+"433" "proceedings of the forty-ninth annual conference - southeastern association of fish and wildlife agencies" 6
+"434" "proceedings of the indian academy of sciences-animal sciences" 1
+"435" "proceedings of the japan academy series b-physical and biological sciences" 1
+"436" "proceedings of the national academy of sciences of the united states of america" 17
+"437" "proceedings of the national seminar on evolutionary biology and biotechnology ernst mayr commemoration volume 2007" 1
+"438" "proceedings of the pakistan congress of zoology vol 22 2002" 1
+"439" "proceedings of the royal society b-biological sciences" 49
+"440" "proceedings of the royal society series b-biological sciences" 1
+"441" "proceedings of the zoological society of london" 1
+"442" "proceedings shrubland ecosystem dynamics in a changing environment" 1
+"443" "public recreation and landscape protection - with sense hand in hand" 1
+"444" "radiation research" 1
+"445" "raffles bulletin of zoology" 5
+"446" "rangeland ecology  management" 30
+"447" "regulated rivers-research  management" 1
+"448" "regulatory mechanisms in biosystems" 2
+"449" "reproduction" 7
+"450" "reproduction fertility and development" 2
+"451" "reproduction in domestic animals" 8
+"452" "reproductive and developmental strategies the continuity of life" 1
+"453" "reproductive medicine and biology" 1
+"454" "reproductive toxicology" 2
+"455" "research journal of pharmaceutical biological and chemical sciences" 1
+"456" "research on arctic geese" 1
+"457" "researches on population ecology" 1
+"458" "restoration ecology" 5
+"459" "revista brasileira de ornitologia" 3
+"460" "revista de biologia tropical" 8
+"461" "revista mexicana de biodiversidad" 1
+"462" "revue d ecologie-la terre et la vie" 10
+"463" "revue suisse de zoologie" 1
+"464" "royal society open science" 6
+"465" "russian journal of ecology" 3
+"466" "sar and qsar in environmental research" 1
+"467" "science" 5
+"468" "science of nature" 2
+"469" "science of the total environment" 16
+"470" "scientific data" 1
+"471" "scientific reports" 22
+"472" "scientific research and essays" 1
+"473" "scientific world journal" 2
+"474" "south african journal of science" 1
+"475" "south african journal of wildlife research" 9
+"476" "south african journal of zoology" 2
+"477" "southeastern naturalist" 7
+"478" "southwestern naturalist" 8
+"479" "soviet journal of ecology" 3
+"480" "steroids and the nervous system" 1
+"481" "stress-the international journal on the biology of stress" 4
+"482" "studies on neotropical fauna and environment" 1
+"483" "sustainability" 2
+"484" "symmetry-basel" 1
+"485" "tagungsband fachgesprach agrarvogel - okologische bewertungsgrundlage fur biodiversitatsziele in ackerbaugebieten" 2
+"486" "texas journal of science" 3
+"487" "theoretical ecology" 2
+"488" "theoretical population biology" 1
+"489" "theriogenology" 25
+"490" "toxicological and environmental chemistry" 3
+"491" "toxicology and environmental health sciences" 1
+"492" "transactions of the fifty-ninth north american wildlife and natural resources conference" 2
+"493" "transactions of the royal society of south africa" 1
+"494" "transactions of the western section of the wildlife society vol 35 1999" 1
+"495" "trends in comparative endocrinology and neurobiology" 1
+"496" "trends in ecology  evolution" 2
+"497" "tropical conservation science" 2
+"498" "turkish journal of zoology" 4
+"499" "twentieth vertebrate pest conference proceedings" 1
+"500" "ukrainian journal of ecology" 7
+"501" "urban ecosystems" 1
+"502" "ursus" 1
+"503" "vegetatio" 1
+"504" "verhandlungen der gesellschaft fur okologie vol 26" 1
+"505" "veterinary research forum" 3
+"506" "video surveillance of nesting birds" 1
+"507" "vie et milieu-life and environment" 1
+"508" "water air and soil pollution" 1
+"509" "waterbirds" 5
+"510" "western north american naturalist" 25
+"511" "wildlife 2001  populations" 1
+"512" "wildlife biology" 158
+"513" "wildlife disease ecology linking theory to data and application" 1
+"514" "wildlife monographs" 4
+"515" "wildlife research" 24
+"516" "wildlife society bulletin" 113
+"517" "wilson bulletin" 31
+"518" "wilson journal of ornithology" 38
+"519" "zeitschrift fur jagdwissenschaft" 22
+"520" "zeitschrift fur tierpsychologie-journal of comparative ethology" 1
+"521" "zoo biology" 13
+"522" "zoologia" 1
+"523" "zoological research" 1
+"524" "zoological science" 15
+"525" "zoological studies" 3
+"526" "zoologichesky zhurnal" 13
+"527" "zoologischer anzeiger" 7
+"528" "zoomorphology" 1
+"529" "zootaxa" 3
